@@ -3,6 +3,3 @@
 My name is Sergio Duran and I am Data Scientist/DevOps engineer. I am from Spain, currently based in Madrid and working at Mott MacDonald.
 
 You can find me on [Linkedin](https://www.linkedin.com/in/sduransp/) and/or [Twitter](https://twitter.com/SDuranSP)
-
-
-	U+1F4E7
